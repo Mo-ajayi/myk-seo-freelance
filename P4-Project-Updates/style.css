@@ -456,7 +456,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #EEE;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -545,7 +545,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #FFF;
+    color: #EEE;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -578,16 +578,16 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #FFF;
+    color: #EEE;
     background: rgba(0, 0, 0, .5);
     position: absolute;
-    left: 15px;
+    left: 15px;                                             
     right: 15px;
     bottom: 5px;
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #EEE;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -604,7 +604,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #EEE;
 }
 
 .next-lightbox,
