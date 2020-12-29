@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    
 }
 
 a,
@@ -262,6 +263,7 @@ a:hover {
 .l-bloc .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
     border-color: rgba(0, 0, 0, .3);
+    
 }
 
 .voffset {
@@ -438,8 +440,6 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
-    color: #3d3d3d;
-    background-color: #FFFFFF;
 }
 
 .mg-lg {
@@ -458,7 +458,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #EEE;
+    color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -547,7 +547,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #EEE;
+    color: #FFF;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -580,16 +580,16 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #EEE;
+    color: #FFF;
     background: rgba(0, 0, 0, .5);
     position: absolute;
-    left: 15px;                                             
+    left: 15px;
     right: 15px;
     bottom: 5px;
 }
 
 .close-lightbox {
-    color: #EEE;
+    color: #FFF;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -606,7 +606,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #EEE;
+    color: #FFF;
 }
 
 .next-lightbox,
@@ -654,6 +654,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    
 }
 
 .container {
@@ -775,7 +776,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #ffffff;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
